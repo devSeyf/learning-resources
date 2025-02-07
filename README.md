@@ -46,3 +46,23 @@
   [مشاهدة الكورس على يوتيوب](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249)
 
 ---
+
+## 🎨 تصميم وتجربة المستخدم
+
+- **Uygulamalı Figma** – *BTK Akademi*  
+  [مشاهدة الكورس على يوتيوب](https://www.btkakademi.gov.tr/portal/course/uygulamali-figma-26902)
+
+---
+
+## 🐧 أنظمة التشغيل والشبكات
+
+### 📂 تعلم لينكس
+- **Linux Eğitimi** – *Taylan Bildik*  
+  [مشاهدة الكورس على يوتيوب](https://www.youtube.com/watch?v=g00i4px9r6w&list=PLe-saRM3WlvPrVrWjfKBKOsEshlLpfmsQ)
+
+### 🌐 شبكات
+- **Ağ (Network) Temelleri Eğitimi** – *Taylan Bildik*  
+  [مشاهدة الكورس على يوتيوب](https://www.youtube.com/playlist?list=PLe-saRM3WlvNJFG4DfwYzTL9P20M6DPHj)
+
+---
+
