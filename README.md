@@ -37,7 +37,7 @@
 
 ## 🗄️ SQL
 
-- 🎓 _Mohamed El Desouky The strongest theoretical course_ - [SQL](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+- 🎓 _Mohamed El Desouky The strongest theoretical course_ - [SQL](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 - 🎓 _BTK Akademi_ - [SQL](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249)
 - 🎓 _Dr. Aya Nasser_ - [Great explanation of the theoretical lessons- Normalization and Entity–relationship model](https://www.youtube.com/watch?v=q8VilMwPrR0&list=PLfOk7Ih7aac9OlBgWylPlKX8Qv66zP7Ek&ab_channel=Dr.AyaNasser-%D8%AF.%D8%A2%D9%8A%D8%A9%D9%86%D8%A7%D8%B5%D8%B1)
 - 🎓 _Learn With Naw_ - [Basic SQL commands explained with examples and exercises](https://www.youtube.com/watch?v=kfH4WfBX3yY&ab_channel=LearnWithNaw)
