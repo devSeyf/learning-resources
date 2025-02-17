@@ -4,22 +4,7 @@
 
 💡 **Don't miss out!** Subscribe to my **Telegram Channel** now!
 
-<div style="text-align: center;">
-  <style>
-    @keyframes arrowBounce {
-      0% { transform: translateY(0); opacity: 0.7; }
-      50% { transform: translateY(-10px); opacity: 1; }
-      100% { transform: translateY(0); opacity: 0.7; }
-    }
-    .arrow {
-      font-size: 50px;
-      font-weight: bold;
-      color: #0088cc;
-      animation: arrowBounce 1.5s infinite ease-in-out;
-    }
-  </style>
-  <p class="arrow">👇</p>
-</div>
+
 
 <p align="center">
   <a href="https://t.me/daifzone"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -118,22 +103,7 @@
 
 💡 **Don't miss out!** Subscribe to my **Telegram Channel** now!
 
-<div style="text-align: center;">
-  <style>
-    @keyframes arrowBounce {
-      0% { transform: translateY(0); opacity: 0.7; }
-      50% { transform: translateY(-10px); opacity: 1; }
-      100% { transform: translateY(0); opacity: 0.7; }
-    }
-    .arrow {
-      font-size: 50px;
-      font-weight: bold;
-      color: #0088cc;
-      animation: arrowBounce 1.5s infinite ease-in-out;
-    }
-  </style>
-  <p class="arrow">👇</p>
-</div>
+
 
 <p align="center">
   <a href="https://t.me/daifzone"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
