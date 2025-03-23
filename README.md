@@ -34,6 +34,7 @@
     - [دورات مجانية](#دورات-مجانية)
   - [🤖 College Artificial Intelligence Courses](#-college-artificial-intelligence-courses)
   - [📌 \[Add here any resources related to artificial intelligence according to your college\]](#-add-here-any-resources-related-to-artificial-intelligence-according-to-your-college)
+  - [حسابات لينكدإن مفيدة جداً](#حسابات-لينكدإن-مفيدة-جداً)
 
 ---
 
@@ -166,6 +167,22 @@
     }
   </style>
   <p class="arrow">👇</p>
+</div>
+
+## حسابات لينكدإن مفيدة جداً
+
+<div align="center">
+
+| المدرس | المحتوى | الرابط |
+|--------|---------|--------|
+| Ahmed Metwally | Metwally Labs \| Software Engineers | [مشاهدة الصفحة](https://www.linkedin.com/in/metwally/) |
+| Dr. Mohammed El-Said | Arabic Competitive Programming | [مشاهدة الصفحة](https://www.linkedin.com/in/mostafasaad/) |
+| Tharwat Samy | Software Engineers | [مشاهدة الصفحة](https://www.linkedin.com/in/tharwat-samy-363aa7177/) |
+| Islam Mahfouz | Codezilla | [مشاهدة الصفحة](https://www.linkedin.com/in/islamheshamashraf/) |
+| Tariq Elouzeh | Software Engineers | [مشاهدة الصفحة](https://www.linkedin.com/in/tariqelouzeh/) |
+| Mohamed Elsherif | Software Engineers | [مشاهدة الصفحة](https://www.linkedin.com/in/mohammedhossam/) |
+| Mohamed Hammad | Software Engineers | [مشاهدة الصفحة](https://www.linkedin.com/in/mohamed-hammad-a720a622/) |
+
 </div>
 
 <p align="center">
