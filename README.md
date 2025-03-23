@@ -18,8 +18,6 @@
 - [🏫 Learning Resources](#-learning-resources)
   - [📑 جدول المحتويات](#-جدول-المحتويات)
   - [🌐 WordPress](#-wordpress)
-    - [كورس WordPress كامل](#كورس-wordpress-كامل)
-    - [تحويل قالب HTML إلى WordPress](#تحويل-قالب-html-إلى-wordpress)
   - [💻 مسار تعلم Backend C# ASP.NET](#-مسار-تعلم-backend-c-aspnet)
   - [💻 مسار تعلم Data Structure](#-مسار-تعلم-data-structure)
   - [🗄️ SQL](#️-sql)
@@ -40,11 +38,22 @@
 
 ## 🌐 WordPress
 
-### كورس WordPress كامل
-- 📚 [Elzero Web School](https://www.youtube.com/watch?v=ctEAYHFcbHk&list=PLDoPjvoNmBAwCNR-UIRft5YuVlZKrYh20) - كورس شامل لتعلم WordPress من الصفر
+<div align="center">
 
-### تحويل قالب HTML إلى WordPress
-- 📚 [Akwade\_](https://www.youtube.com/watch?v=eMK8CqAho84&list=PLdwVZzgkfKriYhrbbdJ4bjD1tLt-9HUC7) - كورس تحويل تصميم HTML إلى قالب WordPress
+| اسم الكورس | المدرس | الرابط |
+|------------|--------|--------|
+| كورس WordPress كامل | Elzero Web School | [مشاهدة الكورس](https://www.youtube.com/watch?v=ctEAYHFcbHk&list=PLDoPjvoNmBAwCNR-UIRft5YuVlZKrYh20) |
+| تحويل قالب HTML إلى WordPress | Akwade\_ | [مشاهدة الكورس](https://www.youtube.com/watch?v=eMK8CqAho84&list=PLdwVZgkfKriYhrbbdJ4bjD1tLt-9HUC7) |
+| دروس WordPress | Muhammad Alaa | [مشاهدة الكورس](https://www.youtube.com/@MuhammadAlaa) |
+| تعلم WordPress | Noura Sa'd | [مشاهدة الكورس](https://www.youtube.com/@NouraSad4) |
+| دروس WordPress | Mohammed Abdelmajeed | [مشاهدة الكورس](https://www.youtube.com/@mhmajeid/videos) |
+| تقنيات WordPress | WP Genius | [مشاهدة الكورس](https://www.youtube.com/@WPGenius) |
+| تعلم WordPress | النقيب Al-Nakib | [مشاهدة الكورس](https://www.youtube.com/@elnakib/playlists) |
+| دروس WordPress | Ahmed Nagdy - أحمد نجدي | [مشاهدة الكورس](https://www.youtube.com/@NagdyWP/videos) |
+| شروحات WordPress | Darrel Wilson عربى | [مشاهدة الكورس](https://www.youtube.com/@darrelwilsonarabic/videos) |
+| دورة WordPress | Learnit Training | [مشاهدة الكورس](https://www.youtube.com/watch?v=JBqJwJCk9fE&t=173s) |
+
+</div>
 
 ---
 
