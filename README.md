@@ -22,14 +22,14 @@
   - [💻 مسار تعلم Data Structure](#-مسار-تعلم-data-structure)
   - [🗄️ SQL](#️-sql)
   - [🎨 تصميم وتجربة المستخدم](#-تصميم-وتجربة-المستخدم)
-    - [دورات في التصميم](#دورات-في-التصميم)
+  - [](#)
   - [🐧 أنظمة التشغيل والشبكات](#-أنظمة-التشغيل-والشبكات)
   - [📃 نصائح كتابة السيرة الذاتية](#-نصائح-كتابة-السيرة-الذاتية)
-  - [📂 مستودعات GitHub مهمة](#-مستودعات-github-مهمة)
-    - [مستودعات برمجية مفيدة](#مستودعات-برمجية-مفيدة)
+  - [📂 مستودعات GitHub](#-مستودعات-github)
+  - [Useful Programming Repositories](#useful-programming-repositories)
+  - [](#-1)
   - [📱 Flutter](#-flutter)
-    - [دورات مدفوعة](#دورات-مدفوعة)
-    - [دورات مجانية](#دورات-مجانية)
+  - [](#-2)
   - [🤖 College Artificial Intelligence Courses](#-college-artificial-intelligence-courses)
   - [📌 \[Add here any resources related to artificial intelligence according to your college\]](#-add-here-any-resources-related-to-artificial-intelligence-according-to-your-college)
   - [حسابات لينكدإن مفيدة جداً](#حسابات-لينكدإن-مفيدة-جداً)
@@ -92,20 +92,30 @@
 ---
 ## 🗄️ SQL
 
-- 🎓 _Mohamed El Desouky The strongest theoretical course_ - [SQL](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-- 🎓 _BTK Akademi_ - [SQL](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249)
-- 🎓 _Dr. Aya Nasser_ - [Great explanation of the theoretical lessons- Normalization and Entity–relationship model](https://www.youtube.com/watch?v=q8VilMwPrR0&list=PLfOk7Ih7aac9OlBgWylPlKX8Qv66zP7Ek&ab_channel=Dr.AyaNasser-%D8%AF.%D8%A2%D9%8A%D8%A9%D9%86%D8%A7%D8%B5%D8%B1)
-- 🎓 _Learn With Naw_ - [Basic SQL commands explained with examples and exercises](https://www.youtube.com/watch?v=kfH4WfBX3yY&ab_channel=LearnWithNaw)
-- 🎓 _Smart Team_ - [Short and quick paper explanation](https://www.youtube.com/watch?v=Do6l420WF4E&list=PLPn4eVPZKtrI-AIET96mSMcPsKOevYnqm&ab_channel=SmartTeam)
-- 🤩 _Tech Vault | Amr Elhelw, PhD_ - [Explanation of normalization 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=1HEHa_EJa0k&ab_channel=TechVault)
+<div align="center">
+
+| المدرس | المحتوى | الرابط |
+|--------|---------|--------|
+| Mohamed El Desouky | The strongest theoretical course | [مشاهدة الكورس](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) |
+| BTK Akademi | SQL | [مشاهدة الكورس](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) |
+| Dr. Aya Nasser | Great explanation of the theoretical lessons- Normalization and Entity–relationship model | [مشاهدة الكورس](https://www.youtube.com/watch?v=q8VilMwPrR0&list=PLfOk7Ih7aac9OlBgWylPlKX8Qv66zP7Ek&ab_channel=Dr.AyaNasser-%D8%AF.%D8%A2%D9%8A%D8%A9%D9%86%D8%A7%D8%B5%D8%B1) |
+| Learn With Naw | Basic SQL commands explained with examples and exercises | [مشاهدة الكورس](https://www.youtube.com/watch?v=kfH4WfBX3yY&ab_channel=LearnWithNaw) |
+| Smart Team | Short and quick paper explanation | [مشاهدة الكورس](https://www.youtube.com/watch?v=Do6l420WF4E&list=PLPn4eVPZKtrI-AIET96mSMcPsKOevYnqm&ab_channel=SmartTeam) |
+| Tech Vault \| Amr Elhelw, PhD | Explanation of normalization 1NF, 2NF, 3NF, 4NF, 5NF | [مشاهدة الكورس](https://www.youtube.com/watch?v=1HEHa_EJa0k&ab_channel=TechVault) |
+
+</div>
 
 ---
 
 ## 🎨 تصميم وتجربة المستخدم
 
-### دورات في التصميم
-- 🎓 **BTK Akademi** - [دورة تطبيقية في Figma](https://www.btkakademi.gov.tr/portal/course/uygulamali-figma-26902)
+<div align="center">
 
+| المدرس | المحتوى | الرابط |
+|--------|---------|--------|
+| BTK Akademi | دورة تطبيقية في Figma | [مشاهدة الكورس](https://www.btkakademi.gov.tr/portal/course/uygulamali-figma-26902) |
+
+</div>
 ---
 
 ## 🐧 أنظمة التشغيل والشبكات
@@ -132,27 +142,28 @@
 
 ---
 
-## 📂 مستودعات GitHub مهمة
+## 📂 مستودعات GitHub 
 
 <div align="center">
 
-### مستودعات برمجية مفيدة
+## Useful Programming Repositories
 
-[![أهم المدونات والمصادر العربية لتعلم البرمجة](https://img.shields.io/badge/مستودع-المصادر_العربية-red?style=for-the-badge)](https://github.com/aissa-bouguern/arabic-programming-blogs)
+[![Arabic Programming Resources](https://img.shields.io/badge/Repository-Arabic_Resources-red?style=for-the-badge)](https://github.com/aissa-bouguern/arabic-programming-blogs)
 
 </div>
-
 ---
 
 ## 📱 Flutter
 
-### دورات مدفوعة
-- 💰 **ثروت سامي** - [دورة بسعر رمزي على منصة Udemy](https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners/)
+<div align="center">
 
-### دورات مجانية
-- 🆓 **عمار الخطيب** - [دورة مجانية على YouTube](https://www.youtube.com/watch?v=lRercKJaAes&list=PLw6Y5u47CYq47oDw63bMqkq06fjuoK_GJ)
-- 🆓 **وائل أبو حمزة** - [المسار الكامل لتعلم Flutter على YouTube](https://www.youtube.com/watch?v=6bSP4vazmyw&list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9)
+| Instructor | Type | Content | Link |
+|------------|------|---------|------|
+| Tharwat Samy | 💰 Paid | Affordable course on Udemy | [View Course](https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners/) |
+| Ammar Alkhatib | 🆓 Free | Free course on YouTube | [View Course](https://www.youtube.com/watch?v=lRercKJaAes&list=PLw6Y5u47CYq47oDw63bMqkq06fjuoK_GJ) |
+| Wael Abu Hamza | 🆓 Free | Complete Flutter learning path on YouTube | [View Course](https://www.youtube.com/watch?v=6bSP4vazmyw&list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9) |
 
+</div>
 ---
 
 ## 🤖 College Artificial Intelligence Courses
@@ -177,6 +188,10 @@
   </style>
   <p class="arrow">👇</p>
 </div>
+
+<p align="center">
+  <a href="https://t.me/daifzone"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 ## حسابات لينكدإن مفيدة جداً
 
