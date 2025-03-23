@@ -32,9 +32,8 @@
   - [📱 Flutter](#-flutter)
     - [دورات مدفوعة](#دورات-مدفوعة)
     - [دورات مجانية](#دورات-مجانية)
-  - [🤖 دورات الذكاء الاصطناعي](#-دورات-الذكاء-الاصطناعي)
-    - [📝 هذا القسم مخصص لإضافة الموارد المتعلقة بالذكاء الاصطناعي حسب منهج الكلية](#-هذا-القسم-مخصص-لإضافة-الموارد-المتعلقة-بالذكاء-الاصطناعي-حسب-منهج-الكلية)
-  - [🔔 لا تفوت الفرصة! انضم إلى قناتي على تليجرام الآن!](#-لا-تفوت-الفرصة-انضم-إلى-قناتي-على-تليجرام-الآن)
+  - [🤖 College Artificial Intelligence Courses](#-college-artificial-intelligence-courses)
+  - [📌 \[Add here any resources related to artificial intelligence according to your college\]](#-add-here-any-resources-related-to-artificial-intelligence-according-to-your-college)
 
 ---
 
@@ -76,23 +75,19 @@
 | cloud native base camp \| | مدفوع | [مشاهدة الدورة](https://cloudnativebasecamp.com/courses/ds01/) |
 | Mega Code| Data Structure | [مشاهدة الدورة](https://www.youtube.com/@megacodeyt) |
 | Programming Advices | Data Structure | [مشاهدة الدورة](https://programmingadvices.com/) |
-| ‫محمد الدسوقى (Mohamed El Desouki) | Data Structure | [مشاهدة الدورة](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) |
+|  الدسوقى (Mohamed El Desouki) | Data Structure | [مشاهدة الدورة](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) |
 
 </div>
 
 ---
 ## 🗄️ SQL
 
-<div class="resource-cards">
-
-- 💎 **Mohamed El Desouky** - [أقوى كورس نظري في SQL](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-- 💎 **BTK Akademi** - [تعلم SQL بالتطبيقات العملية](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249)
-- 💎 **د. آية ناصر** - [شرح ممتاز للدروس النظرية - التطبيع والنمذجة العلائقية](https://www.youtube.com/watch?v=q8VilMwPrR0&list=PLfOk7Ih7aac9OlBgWylPlKX8Qv66zP7Ek)
-- 💎 **Learn With Naw** - [أوامر SQL الأساسية مع أمثلة وتدريبات](https://www.youtube.com/watch?v=kfH4WfBX3yY)
-- 💎 **Smart Team** - [شرح سريع ومختصر](https://www.youtube.com/watch?v=Do6l420WF4E&list=PLPn4eVPZKtrI-AIET96mSMcPsKOevYnqm)
-- 🌟 **Tech Vault \| د. عمرو الحلو** - [شرح التطبيع 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=1HEHa_EJa0k)
-
-</div>
+- 🎓 _Mohamed El Desouky The strongest theoretical course_ - [SQL](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+- 🎓 _BTK Akademi_ - [SQL](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249)
+- 🎓 _Dr. Aya Nasser_ - [Great explanation of the theoretical lessons- Normalization and Entity–relationship model](https://www.youtube.com/watch?v=q8VilMwPrR0&list=PLfOk7Ih7aac9OlBgWylPlKX8Qv66zP7Ek&ab_channel=Dr.AyaNasser-%D8%AF.%D8%A2%D9%8A%D8%A9%D9%86%D8%A7%D8%B5%D8%B1)
+- 🎓 _Learn With Naw_ - [Basic SQL commands explained with examples and exercises](https://www.youtube.com/watch?v=kfH4WfBX3yY&ab_channel=LearnWithNaw)
+- 🎓 _Smart Team_ - [Short and quick paper explanation](https://www.youtube.com/watch?v=Do6l420WF4E&list=PLPn4eVPZKtrI-AIET96mSMcPsKOevYnqm&ab_channel=SmartTeam)
+- 🤩 _Tech Vault | Amr Elhelw, PhD_ - [Explanation of normalization 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=1HEHa_EJa0k&ab_channel=TechVault)
 
 ---
 
@@ -150,61 +145,29 @@
 
 ---
 
-## 🤖 دورات الذكاء الاصطناعي
+## 🤖 College Artificial Intelligence Courses
 
-<div align="center">
+## 📌 [Add here any resources related to artificial intelligence according to your college]
 
-### 📝 هذا القسم مخصص لإضافة الموارد المتعلقة بالذكاء الاصطناعي حسب منهج الكلية
+💡 **Don't miss out!** Subscribe to my **Telegram Channel** now!
 
+<div style="text-align: center;">
+  <style>
+    @keyframes arrowBounce {
+      0% { transform: translateY(0); opacity: 0.7; }
+      50% { transform: translateY(-10px); opacity: 1; }
+      100% { transform: translateY(0); opacity: 0.7; }
+    }
+    .arrow {
+      font-size: 50px;
+      font-weight: bold;
+      color: #0088cc;
+      animation: arrowBounce 1.5s infinite ease-in-out;
+    }
+  </style>
+  <p class="arrow">👇</p>
 </div>
 
----
-
-<div align="center">
-
-## 🔔 لا تفوت الفرصة! انضم إلى قناتي على تليجرام الآن!
-
-[![قناة تليجرام](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daifzone)
-
-</div>
-
-<style>
-.resource-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  margin: 20px 0;
-}
-
-.resource-cards > * {
-  background: #f5f5f5;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease;
-}
-
-.resource-cards > *:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-}
-
-.resource-grid {
-  overflow-x: auto;
-}
-
-.resource-grid table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.resource-grid th, .resource-grid td {
-  padding: 12px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-}
-
-.resource-grid tr:hover {
-  background-color: #f5f5f5;
-}
-</style>
+<p align="center">
+  <a href="https://t.me/daifzone"><img src="https://img.shields.io/badge/Telegram%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
